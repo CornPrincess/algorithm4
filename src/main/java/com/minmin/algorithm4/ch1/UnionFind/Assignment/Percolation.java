@@ -1,6 +1,5 @@
-package com.minmin.algorithm4.UnionFind.Assignment;
+package com.minmin.algorithm4.ch1.UnionFind.Assignment;
 
-import edu.princeton.cs.algs4.QuickFindUF;
 import edu.princeton.cs.algs4.WeightedQuickUnionUF;
 
 /**
@@ -18,10 +17,10 @@ public class Percolation {
     private final int virtualBottom;
     private final int size;
     private int openCount = 0;
-//    private final WeightedQuickUnionUF uf;
-//    private final WeightedQuickUnionUF uf;
-    private final QuickFindUF uf;
-    private final QuickFindUF ufForIsFull;
+    private final WeightedQuickUnionUF uf;
+    private final WeightedQuickUnionUF ufForIsFull;
+//    private final QuickFindUF uf;
+//    private final QuickFindUF ufForIsFull;
 
     // creates n-by-n grid, with all sites initially blocked
     public Percolation(int n) {
@@ -29,10 +28,10 @@ public class Percolation {
             throw new IllegalArgumentException("n must bigger than zero.");
         }
         grid = new boolean[n][n];
-//        uf = new WeightedQuickUnionUF(n * n + 2);
-//        ufForIsFull = new WeightedQuickUnionUF(n * n + 1);
-        uf = new QuickFindUF(n * n + 2);
-        ufForIsFull = new QuickFindUF(n * n + 1);
+        uf = new WeightedQuickUnionUF(n * n + 2);
+        ufForIsFull = new WeightedQuickUnionUF(n * n + 1);
+//        uf = new QuickFindUF(n * n + 2);
+//        ufForIsFull = new QuickFindUF(n * n + 1);
         size = n;
         virtualTop = size * size;
         virtualBottom = size * size + 1;

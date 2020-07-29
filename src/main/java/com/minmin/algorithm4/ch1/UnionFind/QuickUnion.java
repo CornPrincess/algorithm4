@@ -1,4 +1,4 @@
-package com.minmin.algorithm4.UnionFind;
+package com.minmin.algorithm4.ch1.UnionFind;
 
 /**
  * Created by IntelliJ IDEA.

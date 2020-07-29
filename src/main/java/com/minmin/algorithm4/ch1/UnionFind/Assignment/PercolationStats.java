@@ -1,4 +1,4 @@
-package com.minmin.algorithm4.UnionFind.Assignment;
+package com.minmin.algorithm4.ch1.UnionFind.Assignment;
 
 import edu.princeton.cs.algs4.StdOut;
 import edu.princeton.cs.algs4.StdRandom;
@@ -78,9 +78,10 @@ public class PercolationStats {
         Stopwatch time = new Stopwatch();
 //        int n = Integer.parseInt(args[0]);
 //        int trails = Integer.parseInt(args[1]);
-        int trails = 10;
-        for (int i = 10; i < 100; i = i * 2) {
-            PercolationStats stats = new PercolationStats(i, trails);
+        int n = 100;
+        for (int i = 10; i < 400; i = i * 2) {
+            PercolationStats stats = new PercolationStats(i, 100);
+            StdOut.println("n = " + i + ", trails = " + 100);
             StdOut.printf("mean = %f\n", stats.mean());
             StdOut.printf("stddev = %-26f\n", stats.stddev());
             StdOut.printf("95%% confidence interval = [%f, %f]\n", stats.confidenceLo(), stats.confidenceHi());
