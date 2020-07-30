@@ -1,0 +1,1180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0adfa3f7-0877-4bd6-abf5-5685afb9a881" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/newcoder/basic_class_01_practice/MyNetherLandsFlag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/newcoder/class_03/Code_01_Array_To_Stack_Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/newcoder/class_03/Code_02_GetMinStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/newcoder/class_03/Code_03_StackAndQueueConvert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/newcoder/class_03/Code_04_DogCatQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/newcoder/class_03/Code_05_RotateMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/newcoder/class_03/Code_06_PrintMatrixSpiralOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/newcoder/class_03/Code_07_ReverseList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/newcoder/class_03/Code_08_ZigZagPrintMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/newcoder/class_03/Code_09_FindNumInSortedMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/newcoder/class_03/Code_10_PrintCommonPart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/newcoder/class_03/Code_11_IsPalindromeList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/newcoder/class_03/Code_12_SmallerEqualBigger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/newcoder/class_03/Code_13_CopyListWithRandom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/newcoder/class_03/Code_14_FindFirstIntersectNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/newcoder/class_03/Code_15_FindOneLessValueIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/newcoder/class_04/Code_01_PreInPosTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/newcoder/class_04/Code_02_PrintBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/newcoder/class_04/Code_03_SuccessorNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/newcoder/class_04/Code_04_SerializeAndReconstructTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/newcoder/class_04/Code_05_PaperFolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/newcoder/class_04/Code_06_IsBalancedTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/newcoder/class_04/Code_07_IsBSTAndCBT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/newcoder/class_04/Code_08_CompleteTreeNodeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/newcoder/class_05/Code_01_HashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/newcoder/class_05/Code_02_RandomPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/newcoder/class_05/Code_03_Islands.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/newcoder/class_05/Code_04_UnionFind.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/newcoder/class_06/Code_01_BFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/newcoder/class_06/Code_02_DFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/newcoder/class_06/Code_03_TopologySort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/newcoder/class_06/Code_04_Kruskal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/newcoder/class_06/Code_05_Prim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/newcoder/class_06/Code_06_Dijkstra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/newcoder/class_06/Edge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/newcoder/class_06/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/newcoder/class_06/GraphGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/newcoder/class_06/Node.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.5439147">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/newcoder/basic_class_01_practice/MySmallSum.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="441">
+                  <caret line="63" column="30" lean-forward="true" selection-start-line="63" selection-start-column="30" selection-end-line="63" selection-end-column="30" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/newcoder/basic_class_01_practice/MyNetherLandsFlag.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="523">
+                  <caret line="46" column="5" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
+                  <folding>
+                    <element signature="e#263#264#0" expanded="true" />
+                    <element signature="e#292#293#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/newcoder/class_05/Code_01_HashMap.java">
+              <provider selected="true" editor-type-id="text-editor" />
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/newcoder/class_03/Code_02_GetMinStack.java">
+              <provider selected="true" editor-type-id="text-editor" />
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/newcoder/class_03/Code_01_Array_To_Stack_Queue.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="254">
+                  <caret line="84" lean-forward="true" selection-start-line="84" selection-end-line="84" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/newcoder/basic_class_01/Code_11_MaxGap.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="510">
+                  <caret line="30" column="20" lean-forward="true" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/newcoder/basic_class_01/Code_08_NetherlandsFlag.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="693">
+                  <caret line="50" column="26" selection-start-line="50" selection-start-column="26" selection-end-line="50" selection-end-column="26" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/ch2sort/quick/Quick3way.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="609">
+                  <caret line="74" lean-forward="true" selection-start-line="74" selection-end-line="74" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="jar://$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/lib/algs4.jar!/edu/princeton/cs/algs4/Merge.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="577">
+                  <caret line="89" column="22" selection-start-line="89" selection-start-column="22" selection-end-line="89" selection-end-column="22" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/newcoder/basic_class_01_practice/MyMergeTest.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="544">
+                  <caret line="32" column="66" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="32" selection-end-column="66" />
+                  <folding>
+                    <element signature="e#250#251#0" expanded="true" />
+                    <element signature="e#271#272#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/ch2sort/quick/Quick.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="284">
+                  <caret line="61" column="18" selection-start-line="61" selection-start-column="18" selection-end-line="61" selection-end-column="18" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/ch2sort/merge/MergeBU.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="187">
+                  <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/ch2sort/merge/TopDownMerge.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="527">
+                  <caret line="50" column="8" selection-start-line="50" selection-start-column="8" selection-end-line="50" selection-end-column="8" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/ch2sort/merge/Merge2.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="136">
+                  <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/ch2sort/merge/Merge.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="-130">
+                  <caret line="42" column="17" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="17" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/UnionFind/QuickFind.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/UnionFind/Assignment/PercolationStats.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/UnionFind/README.md" />
+        <option value="$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/UnionFind/percolationTest/InteractivePercolationVisualizer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/UnionFind/percolationTest/file/Demo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/UnionFind/percolationTest/Demo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/UnionFind/percolationTest/PercolationVisualizer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/UnionFind/Assignment/Percolation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/ch1/UnionFind/Assignment/Percolation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/ch1/practice/Evaluate.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/ch1/practice/StackTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/ch1/practice/QueueTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/ch1/practice/BagTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/ch2sort/Merge.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/ch2sort/Merge2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/ch2sort/TopDownMerge.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/ch2sort/MergeBars.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/ch2sort/MergeBU.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/ch2sort/merge/MergeBU.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/ch2sort/quick/Quick.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/ch2sort/quickPractice/QuickSort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/ch2sort/priorityQueue/TopMTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/ch2sort/priorityQueue/PriorityQueueTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/ch2sort/quick/Quick3way.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/ch2sort/priorityQueue/MyMaxPQ.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/ch2sort/quick/Neverland.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/ch3search/MySequentialSearchST.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/ch3search/MyBinarySearchST.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/newcoder/basic_class_01/Code_11_MaxGap.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/ch2sort/merge/TopDownMerge.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/newcoder/basic_class_01_practice/MyComparator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/ch2sort/quick/NetherlandsFlag.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/newcoder/basic_class_01_practice/ComparatorUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/newcoder/basic_class_01_practice/MyMergeTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/newcoder/basic_class_01_practice/MyMerge.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/newcoder/basic_class_01_practice/MySmallSum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/newcoder/basic_class_01_practice/MyNetherLandsFlag.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/newcoder/class_05/Code_01_HashMap.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/newcoder/class_03/Code_02_GetMinStack.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="/usr/local/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="/usr/local/apache-maven-3.6.1/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1927" />
+    <option name="y" value="23" />
+    <option name="width" value="1912" />
+    <option name="height" value="1010" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <hideEmptyPackages ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Course" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="algorithm4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm4" type="462c0819:PsiDirectoryNode" />
+              <item name="newcoder" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm4" type="462c0819:PsiDirectoryNode" />
+              <item name="newcoder" type="462c0819:PsiDirectoryNode" />
+              <item name="class_03" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/newcoder" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2848034" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/newcoder" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/lib" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/UnionFind/percolationTest/images" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/UnionFind/percolationTest/file" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/UnionFind/percolationTest" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.MyNetherLandsFlag">
+    <configuration name="Code_08_NetherlandsFlag" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.minmin.algorithm4.newcoder.basic_class_01.Code_08_NetherlandsFlag" />
+      <module name="algorithm4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.minmin.algorithm4.newcoder.basic_class_01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyBinarySearchST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.minmin.algorithm4.ch3search.MyBinarySearchST" />
+      <module name="algorithm4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.minmin.algorithm4.ch3search.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyMergeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.minmin.algorithm4.newcoder.basic_class_01_practice.MyMergeTest" />
+      <module name="algorithm4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.minmin.algorithm4.newcoder.basic_class_01_practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyNetherLandsFlag" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.minmin.algorithm4.newcoder.basic_class_01_practice.MyNetherLandsFlag" />
+      <module name="algorithm4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.minmin.algorithm4.newcoder.basic_class_01_practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MySmallSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.minmin.algorithm4.newcoder.basic_class_01_practice.MySmallSum" />
+      <module name="algorithm4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.minmin.algorithm4.newcoder.basic_class_01_practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MyBinarySearchST" />
+      <item itemvalue="Application.Code_08_NetherlandsFlag" />
+      <item itemvalue="Application.MyMergeTest" />
+      <item itemvalue="Application.MySmallSum" />
+      <item itemvalue="Application.MyNetherLandsFlag" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MyNetherLandsFlag" />
+        <item itemvalue="Application.MySmallSum" />
+        <item itemvalue="Application.MyMergeTest" />
+        <item itemvalue="Application.Code_08_NetherlandsFlag" />
+        <item itemvalue="Application.MyBinarySearchST" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0adfa3f7-0877-4bd6-abf5-5685afb9a881" name="Default Changelist" comment="" />
+      <created>1589295826775</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589295826775</updated>
+      <workItem from="1589295834737" duration="1416000" />
+      <workItem from="1589344282819" duration="21919000" />
+      <workItem from="1589777548345" duration="932000" />
+      <workItem from="1590315795350" duration="481000" />
+      <workItem from="1591540251422" duration="1045000" />
+      <workItem from="1592061265599" duration="211000" />
+      <workItem from="1592541235361" duration="570000" />
+      <workItem from="1592574850229" duration="971000" />
+      <workItem from="1593698531154" duration="252000" />
+      <workItem from="1594041408312" duration="467000" />
+      <workItem from="1594742071793" duration="14000" />
+      <workItem from="1595513550604" duration="8609000" />
+      <workItem from="1595851016851" duration="32376000" />
+    </task>
+    <task id="LOCAL-00001" summary="add smallSum">
+      <created>1596044008109</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1596044008109</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Evaluate_test - 2020.07.23 at 23h 40m 55s.xml">
+      <configuration name="Evaluate.test" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="69263000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1927" y="23" width="1912" height="1010" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.5134771" visible="true" weight="0.22299466" />
+      <window_info id="Structure" order="1" sideWeight="0.4865229" side_tool="true" weight="0.17914438" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32970297" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.19389978" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3786307" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.5206972" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Educational.CheckDetails" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" weight="0.36710238" />
+      <window_info anchor="bottom" id="CheckStyle" order="13" weight="0.32943678" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.3271028" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="BPMNPalette" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Word Book" order="10" side_tool="true" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49551857" visible="true" weight="0.23701298" />
+      <window_info id="Structure" order="1" sideWeight="0.50448143" side_tool="true" visible="true" weight="0.23701298" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32970297" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.18899272" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3616352" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.30792078" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Educational.CheckDetails" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="CheckStyle" order="13" weight="0.32943678" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.32769555" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="BPMNPalette" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Word Book" order="10" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add smallSum" />
+    <option name="LAST_COMMIT_MESSAGE" value="add smallSum" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/ch1/UnionFind/Assignment/Percolation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#3258#3259#0" expanded="true" />
+            <element signature="e#3290#3291#0" expanded="true" />
+            <element signature="method#validate#0;class#Percolation#0" />
+            <element signature="e#3704#3746#0" />
+            <element signature="e#4217#4218#0" expanded="true" />
+            <element signature="e#4266#4267#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/ch1/practice/Evaluate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1258">
+          <caret line="74" column="5" selection-start-line="74" selection-start-column="5" selection-end-line="74" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/ch1/practice/StackTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1853">
+          <caret line="135" selection-start-line="135" selection-end-line="135" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/lib/algs4.jar!/edu/princeton/cs/algs4/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1003">
+          <caret line="82" selection-start-line="82" selection-end-line="82" />
+          <folding>
+            <element signature="method#Stack#0;class#Stack#0" />
+            <element signature="e#2485#2486#0" expanded="true" />
+            <element signature="e#2521#2522#0" expanded="true" />
+            <element signature="e#2692#2693#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/ch1/practice/QueueTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/ch1/practice/BagTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/lib/algs4.jar!/edu/princeton/cs/algs4/Bag.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="54" column="38" selection-start-line="54" selection-start-column="38" selection-end-line="54" selection-end-column="38" />
+          <folding>
+            <element signature="e#2881#2882#0" expanded="true" />
+            <element signature="e#2931#2932#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/src.zip!/java/util/Iterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="53" column="17" selection-start-line="53" selection-start-column="17" selection-end-line="53" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/lib/algs4.jar!/edu/princeton/cs/algs4/Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1615">
+          <caret line="111" column="16" selection-start-line="111" selection-start-column="16" selection-end-line="111" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/src.zip!/java/lang/Iterable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="67" column="36" selection-start-line="67" selection-start-column="36" selection-end-line="67" selection-end-column="36" />
+          <folding>
+            <element signature="e#2712#2713#0" expanded="true" />
+            <element signature="e#2785#2786#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/ch2sort/merge/MergeBars.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2482#2483#0" expanded="true" />
+            <element signature="e#2510#2511#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/lib/algs4.jar!/edu/princeton/cs/algs4/StdRandom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="126" column="22" selection-start-line="126" selection-start-column="22" selection-end-line="126" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/src.zip!/java/util/PriorityQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="148" column="43" lean-forward="true" selection-start-line="148" selection-start-column="43" selection-end-line="148" selection-end-column="43" />
+          <folding>
+            <element signature="e#4779#4780#0" expanded="true" />
+            <element signature="e#4822#4823#0" expanded="true" />
+            <element signature="e#5287#5288#0" expanded="true" />
+            <element signature="e#5345#5346#0" expanded="true" />
+            <element signature="e#12158#12159#0" expanded="true" />
+            <element signature="e#12189#12190#0" expanded="true" />
+            <element signature="e#13000#13001#0" expanded="true" />
+            <element signature="e#13056#13057#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/src.zip!/java/util/Collections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="5100" column="36" selection-start-line="5100" selection-start-column="36" selection-end-line="5100" selection-end-column="36" />
+          <folding>
+            <element signature="e#197058#197059#0" expanded="true" />
+            <element signature="e#197128#197129#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/ch2sort/priorityQueue/TopMTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="39" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#732#745#0" expanded="true" />
+            <element signature="e#1254#1267#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/src.zip!/java/util/Comparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="338" column="33" selection-start-line="338" selection-start-column="33" selection-end-line="338" selection-end-column="33" />
+          <folding>
+            <element signature="e#7819#7820#0" expanded="true" />
+            <element signature="e#7872#7873#0" expanded="true" />
+            <element signature="e#14106#14107#0" expanded="true" />
+            <element signature="e#14155#14156#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/lib/algs4.jar!/edu/princeton/cs/algs4/MinPQ.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="524">
+          <caret line="215" column="9" lean-forward="true" selection-start-line="215" selection-start-column="9" selection-end-line="215" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="168" column="29" lean-forward="true" selection-start-line="168" selection-start-column="29" selection-end-line="168" selection-end-column="29" />
+          <folding>
+            <element signature="e#5027#5028#0" expanded="true" />
+            <element signature="e#5098#5099#0" expanded="true" />
+            <element signature="e#17889#17890#0" expanded="true" />
+            <element signature="e#17960#17961#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/src.zip!/java/util/DualPivotQuicksort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-489">
+          <caret line="213" column="24" selection-start-line="213" selection-start-column="24" selection-end-line="213" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/ch2sort/priorityQueue/PriorityQueueTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/ch2sort/priorityQueue/MyMaxPQ.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="452">
+          <caret line="85" column="46" lean-forward="true" selection-start-line="85" selection-start-column="46" selection-end-line="85" selection-end-column="46" />
+          <folding>
+            <element signature="e#269#270#0" expanded="true" />
+            <element signature="e#288#289#0" expanded="true" />
+            <element signature="e#425#426#0" expanded="true" />
+            <element signature="e#448#449#0" expanded="true" />
+            <element signature="e#485#486#0" expanded="true" />
+            <element signature="e#511#512#0" expanded="true" />
+            <element signature="e#1349#1350#0" expanded="true" />
+            <element signature="e#1397#1398#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/lib/algs4.jar!/edu/princeton/cs/algs4/SequentialSearchST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="66" column="18" selection-start-line="66" selection-start-column="18" selection-end-line="66" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/ch3search/MyBinarySearchST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="51" column="19" selection-start-line="51" selection-start-column="19" selection-end-line="51" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#366#367#0" expanded="true" />
+            <element signature="e#385#386#0" expanded="true" />
+            <element signature="e#966#967#0" expanded="true" />
+            <element signature="e#989#990#0" expanded="true" />
+            <element signature="e#1027#1028#0" expanded="true" />
+            <element signature="e#1060#1061#0" expanded="true" />
+            <element signature="e#7832#7833#0" expanded="true" />
+            <element signature="e#7873#7874#0" expanded="true" />
+            <element signature="e#9022#9023#0" expanded="true" />
+            <element signature="e#9070#9071#0" expanded="true" />
+            <element signature="e#9838#9855#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/ch3search/MySequentialSearchST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="53" column="16" selection-start-line="53" selection-start-column="16" selection-end-line="53" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#556#557#0" expanded="true" />
+            <element signature="e#580#581#0" expanded="true" />
+            <element signature="e#616#617#0" expanded="true" />
+            <element signature="e#645#646#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/newcoder/basic_class_01/Code_09_Comparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-527">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/newcoder/basic_class_01/Code_10_GetAllNotIncluded.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/newcoder/basic_class_01/Code_00_BubbleSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="34" selection-start-line="31" selection-start-column="34" selection-end-line="31" selection-end-column="34" />
+          <folding>
+            <element signature="e#564#565#0" expanded="true" />
+            <element signature="e#587#588#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/ch2sort/quick/Quick.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="61" column="18" selection-start-line="61" selection-start-column="18" selection-end-line="61" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/ch2sort/merge/MergeBU.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/ch2sort/merge/Merge2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/ch2sort/merge/TopDownMerge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="50" column="8" selection-start-line="50" selection-start-column="8" selection-end-line="50" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/src.zip!/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="501">
+          <caret line="771" column="25" selection-start-line="771" selection-start-column="25" selection-end-line="771" selection-end-column="25" />
+          <folding>
+            <element signature="e#32010#32011#0" expanded="true" />
+            <element signature="e#32095#32096#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/ch2sort/quick/NetherlandsFlag.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/ch2sort/quickPractice/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="763">
+          <caret line="75" selection-start-line="75" selection-end-line="75" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2945#2946#0" expanded="true" />
+            <element signature="e#2996#2997#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/newcoder/basic_class_01_practice/MyComparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+          <folding>
+            <element signature="e#270#271#0" expanded="true" />
+            <element signature="e#293#294#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/newcoder/basic_class_01/Code_05_MergeSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="116" column="66" selection-start-line="100" selection-start-column="8" selection-end-line="116" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/newcoder/basic_class_01_practice/ComparatorUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="57" column="5" selection-start-line="57" selection-start-column="5" selection-end-line="57" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/ch2sort/merge/Merge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-130">
+          <caret line="42" column="17" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/newcoder/basic_class_01_practice/MyMerge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="438">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+          <folding>
+            <element signature="e#1218#1219#0" expanded="true" />
+            <element signature="e#1258#1259#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/newcoder/basic_class_01/Code_12_SmallSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1432">
+          <caret line="104" column="5" lean-forward="true" selection-start-line="104" selection-start-column="5" selection-end-line="104" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/lib/algs4.jar!/edu/princeton/cs/algs4/Merge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="577">
+          <caret line="89" column="22" selection-start-line="89" selection-start-column="22" selection-end-line="89" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/newcoder/basic_class_01_practice/MySmallSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="63" column="30" lean-forward="true" selection-start-line="63" selection-start-column="30" selection-end-line="63" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/newcoder/basic_class_01/Code_08_NetherlandsFlag.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="693">
+          <caret line="50" column="26" selection-start-line="50" selection-start-column="26" selection-end-line="50" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/ch2sort/quick/Quick3way.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="609">
+          <caret line="74" lean-forward="true" selection-start-line="74" selection-end-line="74" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/newcoder/basic_class_01_practice/MyMergeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="66" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="32" selection-end-column="66" />
+          <folding>
+            <element signature="e#250#251#0" expanded="true" />
+            <element signature="e#271#272#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/newcoder/basic_class_01/Code_11_MaxGap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="20" lean-forward="true" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/newcoder/basic_class_01_practice/MyNetherLandsFlag.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="523">
+          <caret line="46" column="5" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
+          <folding>
+            <element signature="e#263#264#0" expanded="true" />
+            <element signature="e#292#293#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/newcoder/class_05/Code_01_HashMap.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/newcoder/class_03/Code_02_GetMinStack.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/minmin/algorithm4/newcoder/class_03/Code_01_Array_To_Stack_Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="84" lean-forward="true" selection-start-line="84" selection-end-line="84" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>algorithm4</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2848034" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
